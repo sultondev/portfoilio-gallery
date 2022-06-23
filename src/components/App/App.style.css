@@ -1,0 +1,9 @@
+.app-welcome {
+    background-color: rgb(40, 41, 62);
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.3);
+}
+
+*{
+  color: white;
+  box-sizing: border-box;
+}
