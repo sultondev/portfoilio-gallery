@@ -47,7 +47,7 @@ const HeaderMenu = () => {
       <div
         className={`
         z-20
-        ex-sm:fixed left-0 top-0 ex-sm:bg-white p-4 w-1/2 ex-sm:h-screen ${menuState} z-10 flex flex-col gap-10
+        ex-sm:fixed left-0 top-0 ex-sm:bg-white p-4 w-1/2 ex-sm:h-screen ${menuState} z-20 flex flex-col gap-10
         lg:relative lg:left-0 lg:top-0 lg:flex-row lg:h-full lg:p-0 lg:justify-between lg:bg-[transparent]
         `}
       >
